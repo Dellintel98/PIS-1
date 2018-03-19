@@ -8,5 +8,6 @@ namespace PIS1
 {
     class NewClass
     {
+        //This is a comment
     }
 }
